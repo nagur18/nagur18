@@ -1,5 +1,5 @@
 👋 Hi, I’m @nagur18  
-- 👀 I’m interested in C programming, MySQL,Java(beginer) and building efficient solutions through coding.  
+- 👀 I’m interested in C programming, MySQL,Java and building efficient solutions through coding.  
 - 🌱 I’m currently learning Data Structures & Algorithms,Core Java , and exploring advanced SQL concepts.  
 - 💞️ I’m looking to collaborate on beginner-friendly open source projects, coding challenges, and database-related applications.  
 - 📫 How to reach me: [mrnagur18@gmail.com] | [www.linkedin.com/in/nagurvali-developer]  
