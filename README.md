@@ -1,3 +1,9 @@
+👨‍💻 Computer Science & Engineering Graduate  
+💻 Full Stack Developer
+🤖 AI/ML developer  
+🔐 Cybersecurity Focus  
+🚀 Builting effective projects
+🧑‍💼 Open to work
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.nagur_ma18_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagurvali-developer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrnagur18@gmail.com) 
