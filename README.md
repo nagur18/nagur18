@@ -1,6 +1,5 @@
 👨‍💻 Computer Science & Engineering Graduate  
 💻 Full Stack Developer
-🤖 AI/ML developer  
 🔐 Cybersecurity Focus  
 🚀 Builting effective projects
 🧑‍💼 Open to work
